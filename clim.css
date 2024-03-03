@@ -1,0 +1,14 @@
+h1{
+    text-align: center;
+    background-color: burlywood;
+    
+}
+.container{
+    background-image:url(https://cdn.pixabay.com/photo/2015/01/14/18/47/globe-599486_1280.jpg);
+}
+.card{
+    webkit-box-shadow: 10px 10px 5px 0px rgba(31,28,31,1);
+-moz-box-shadow: 10px 10px 5px 0px rgba(31,28,31,1);
+box-shadow: 10px 10px 5px 0px rgba(31,28,31,1);
+
+}
