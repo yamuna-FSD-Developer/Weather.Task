@@ -1,6 +1,4 @@
-//key:9977d267ce1c96a851aa8ed72279ffbf
-//https://api.openweathermap.org/data/2.5/weather?q={city name}&appid={API key}
-//https://restcountries.com/v3.1/all
+
 
 var restCountry = fetch("https://restcountries.com/v3.1/all");
 
