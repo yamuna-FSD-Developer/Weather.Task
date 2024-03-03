@@ -40,7 +40,7 @@ restCountry
     });
 
 function checkWeather(cityName) {
-    var apiKey = '9977d267ce1c96a851aa8ed72279ffbf';
+    var apiKey = '9b3abd72af5e8ee4c215adb53b59b0e5';
     var weatherApiUrl = `https://api.openweathermap.org/data/2.5/weather?q=${cityName}&appid=${apiKey}`;
 
     fetch(weatherApiUrl)
